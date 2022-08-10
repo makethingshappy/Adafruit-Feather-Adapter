@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Adafruit_Feather_adapter_Rev._1.21.PcbDoc   30.9.2019.  6:45:13
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Adafruit_Feather_adapter_Rev._1.21-RoundHoles.TXT
+ASCII SlotHoles File : Adafruit_Feather_adapter_Rev._1.21-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             149       PTH        27.56inch (699.98mm)
+T2      20mil (0.5mm)                                             Slot              3         PTH        1.06inch (26.87mm)
+T3      32mil (0.8mm)                                             Round             10        PTH        2.46inch (62.61mm)
+T4      35mil (0.889mm)                                           Round             16        PTH        2.30inch (58.42mm)
+T5      35mil (0.9mm)                                             Round             38        PTH        7.06inch (179.26mm)
+T6      39mil (1mm)                                               Round             28        PTH        4.50inch (114.30mm)
+T7      100mil (2.54mm)                                           Round             4         PTH        3.20inch (81.28mm)
+T8      108mil (2.75mm)                                           Round             4         PTH        7.56inch (191.93mm)
+T9      47mil (1.2mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T10     79mil (2mm)                                               Round             5         NPTH       2.79inch (70.74mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              258
+
+Total Processing Time (hh:mm:ss) : 00:00:00
